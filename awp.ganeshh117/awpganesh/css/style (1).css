@@ -1,0 +1,150 @@
+*{
+    text-transform: capitalize;
+}
+.org{
+    color: rgb(255, 110, 26);
+}
+.f_head1{
+    height: 75px;
+    background-color: rgba(255, 255, 255, 0.308);
+    
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    top: 0px;
+}
+.pad_1{
+    padding-top: 14px;
+    /* padding-left: 70px; */
+}
+.pad_2{
+    padding-top: 19px;
+    /* padding-right: 100px; */
+}
+.bott{
+    background-color:  rgb(255, 114, 26);
+    border-radius: 0px !important;
+    color: white;
+}
+.hw_org{
+    color: white;
+}
+.hw_org:hover{
+    color:  rgb(255, 114, 26) !important;
+}
+.bott:hover{
+    background-color:  #ff8e48;
+    border-radius: 0px !important;
+    color: rgb(255, 114, 26);
+}
+.bott{
+    display: inline-block;
+}
+.hm:hover{
+    color:  rgb(255, 114, 26);
+}
+.fw-head{
+ font-weight: 800;
+ text-decoration: none;
+ color: white;
+}
+.fw-head:hover{
+    color: white;
+}
+.posti{
+    position: relative;
+    width: 100%;
+    /* top: 0px; */
+    z-index: -2;
+}
+.ccl{
+    /* background-color: black; */
+    /* z-index: 1; */
+    position: absolute;
+    width: 100%;
+    /* display: block; */
+}
+
+.vd_2_b{
+    font-weight:900;
+}
+.vd_2_b2{
+    font-size:70px;
+    font-weight: 900;
+}
+.vd_bt{
+    background-color:  #fc6828;
+    color: white;
+    height: 45px;
+    border: 0px;
+}
+.vd_bt:hover{
+    background-color:  #ff844f;
+}
+.f_head2{
+    height: 75px;
+    background-color:rgb(255, 255, 255);
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0px;
+    box-shadow: 0 1px 10px rgb(215, 215, 215);
+    
+}
+.part_2{
+    position: relative;
+    /* display: block; */
+    top: 780px;
+    z-index: -3;
+}
+.part_1{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    /* bottom: 9px; */
+    /* background-color:  rgba(63, 53, 53, 80%);; */
+}
+.pt2_fw{
+    font-weight: 800;
+}
+.ws{
+    width: 600px;
+    margin-left: 290px;
+}
+.ss{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dum_a{
+    text-decoration: none;
+    color: rgb(255, 114, 26);
+}
+.dum_a:hover{
+    color: rgb(255, 114, 26);
+}
+.dumb{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 48% !important;
+    /* height: 130px; */
+}
+.lin{
+    line-height: 15px;
+}
+.st_dumb{
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+.dumb_a{
+    text-decoration: none;
+}
+.phon{
+    font-size: small;
+}
+.sp-bg{
+    /* background-color: rgba(35,45,57,0.8); */
+    /* position: relative; */
+}
